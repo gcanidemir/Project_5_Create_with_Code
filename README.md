@@ -1,11 +1,11 @@
 # Unity Learn - Project_5 - Create with Code
 Simple Unity Game
 
-Controls
+Controls:
 
-Mouse Click
+Mouse Click - To Click Boxes
 
-Purpose
+Purpose:
 
 Hit the boxes to gain point
 
